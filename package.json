@@ -1,0 +1,33 @@
+{
+  "name": "popcord.js",
+  "version": "1.0.0-alpha",
+  "description": "Discord API library as easy to use as popcorn.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "eslint src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChimoTeam/popcord.js.git"
+  },
+  "keywords": [
+    "discord",
+    "api",
+    "client",
+    "wrapper"
+  ],
+  "author": "Rivest Osz <rivest@hash.fyi>",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/ChimoTeam/popcord.js/issues"
+  },
+  "homepage": "https://github.com/ChimoTeam/popcord.js#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "ws": "^8.5.0"
+  },
+  "devDependencies": {
+    "bfj": "^7.0.2",
+    "eslint": "^8.13.0"
+  }
+}
