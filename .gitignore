@@ -1,0 +1,6 @@
+# NPM things
+node_modules/
+package-lock.json
+
+# Private tests
+tests/
